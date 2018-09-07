@@ -1,4 +1,4 @@
-package practice.leetcode.algorithm.easy;
+package practice.leetcode.algorithm;
 
 /**
  * The type Binary number with alternating bits.
