@@ -1,6 +1,5 @@
 package practice.leetcode.algorithm;
 
-import practice.leetcode.algorithm.common.ListNode;
 
 import java.util.ArrayList;
 import java.util.List;
